@@ -1,0 +1,16 @@
+{
+  "name": "Take_Me_To_The_Movies",
+  "version": "0.0.1",
+  "description": "Real Time HTML 5 Video Streaming, Invite Your Friends, Live Chat, Even Better Than The Real Thing",
+    "author": ["Amelia Downs", "Scott Jason"],
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8",
+    "http": "0.0.0",
+    "path": "^0.4.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}

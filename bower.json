@@ -1,0 +1,24 @@
+{
+  "name": "Take_Me_To_The_Movies",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adowns01/fullscreen-video",
+  "authors": [
+    "Amelia Downs",
+    "Scott Jason"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
